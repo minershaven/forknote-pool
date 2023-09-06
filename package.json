@@ -22,7 +22,7 @@
     "redis": "3.1.2",
     "socket.io": "^3.1.1",
     "time-ago": "*",
-    "utf-8-validate": "*"
+    "utf-8-validate": "*",
     "multi-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git",
     "cryptonote-util": "git+https://github.com/MoneroOcean/node-cryptoforknote-util.git"
     },
